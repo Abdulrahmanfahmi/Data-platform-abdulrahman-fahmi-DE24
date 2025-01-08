@@ -169,3 +169,5 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+# Mac generates trash artifacts
+.DS_store
